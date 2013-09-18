@@ -1,0 +1,103 @@
+/*******************************************************************************
+ * _base.scss
+
+ * Base styles define the default look for HTML and common Drupal elements.
+ *
+ * These rules will generally be made up of element selectors for HTML elements
+ * such as headings, paragraphs and lists. Common Drupal elements such as form
+ * items, collapsible fieldsets and messages should be included in this partial.
+ *
+ * The styleguide module (http://drupal.org/project/styleguide) gives you a good
+ * overview of Drupals common elements for styling. By setting a solid baseline
+ * before adding any more specific customisations you ensure that as any new
+ * features are added they will be correctly styled without any extra work.
+ ******************************************************************************/
+body{
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+}
+.l-page{
+  margin: 0 auto;
+}
+.l-header, .l-main, .l-footer{
+  margin: 0;
+  padding: 0;
+}
+.l-main{
+  padding-top: 12px;
+}
+h1, h2, h3, h4, h5, h6, h7{
+  margin-top: 0;
+  margin-bottom: 12px;
+  line-height: 1.2em;
+}
+h2.block__title{
+  font-style: italic;
+  color: #B51C2B;
+  text-shadow: 1px 1px 6px #999;
+  background: url(../images/icono.jpg) no-repeat left center;
+  padding: 4px 0 3px 27px;
+}
+h3{
+  font-size: 16px;
+  margin-bottom: 6px;
+  font-weight: normal;
+}
+p{
+  margin: 0;
+}
+*+p{
+  margin-top: 28px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: underline;
+}
+ul.menu, 
+ul.menu li,
+ul.menu li.leaf{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul.menu li{
+  float: none;
+  display: inline-block;
+}
+ul.menu li a{
+  display: block;
+}
+.block{
+  margin: 0;
+}
+*+.block{
+  margin-top: 24px;
+}
+.field--name-field-fecha{
+  display: inline-block;
+  padding: 5px;
+  background: #A21E2A;
+  color: white;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 11px;
+  margin-bottom: 6px;
+}
+.more-link{
+  text-align: left;
+  font-weight: bold;
+  font-size: 11px;
+  color: #A21E2A
+}
+.more-link a{
+  color: #A21E2A;
+}
+.field--name-body a.more-link{
+  display: inline-block;
+}

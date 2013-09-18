@@ -1,0 +1,26 @@
+/*******************************************************************************
+ * _layout.scss
+ *
+ * The layout of the major regions (usually, but not necessarily Drupal regions)
+ * that components will be placed within. Layout styles for the theme's
+ * components should not be placed here and should instead be kept with the
+ * relevant SCSS for that component.
+ ******************************************************************************/
+.l-page{
+  width: 990px;
+}
+.l-main{
+  width: 990px;
+}
+.l-branding{
+  width: 363px;
+  margin: 0;
+  height: 210px;
+}
+.sidebar-second .l-content{
+  width: 600px;
+  margin-right: 24px;
+}
+.sidebar-second .l-region--sidebar-second{
+  width: 366px;
+}
