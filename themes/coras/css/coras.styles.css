@@ -189,6 +189,16 @@ ul.menu li a {
   width: auto;
   margin-left: 100px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000335}}
+.node_equipo_teaser_group_author .field--name-ds-user-picture {
+  width: 24px;
+  height: 32px;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000340}}
+.node_equipo_teaser_group_author .field--name-submitted-by {
+  margin-left: 34px; }
+
 /*******************************************************************************
  * _components.scss
  *
