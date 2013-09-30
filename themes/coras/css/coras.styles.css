@@ -247,18 +247,17 @@ ul.menu li a {
 .page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-1,
 .page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-2 {
   text-align: center;
-  width: 175px;
+  width: 155px;
   float: left; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000384}}
 .page-node.node-type-partido #node_partido_full_group_encuentro #node_partido_full_group_marcador {
-  width: 80px;
+  width: 120px;
   float: left;
-  text-align: center; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000389}}
-.page-node.node-type-partido #node_partido_full_group_encuentro #node_partido_full_group_marcador * {
-  display: inline; }
+  text-align: center;
+  font-weight: bold;
+  font-size: 3em;
+  line-height: 1em; }
 
 /*******************************************************************************
  * _components.scss
