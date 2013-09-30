@@ -84,7 +84,7 @@ p {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_base\.scss}line{font-family:\0000350}}
 * + p {
-  margin-top: 28px; }
+  margin-top: 1em; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_base\.scss}line{font-family:\0000353}}
 a {
