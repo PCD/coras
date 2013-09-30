@@ -248,10 +248,13 @@ ul.menu li a {
 .page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-2 {
   text-align: center;
   width: 155px;
-  float: left; }
+  float: left;
+  font-size: 0.7em;
+  text-transform: uppercase; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000386}}
 .page-node.node-type-partido #node_partido_full_group_encuentro #node_partido_full_group_marcador {
+  margin-top: 35px;
   width: 120px;
   float: left;
   text-align: center;
