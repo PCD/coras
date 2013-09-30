@@ -221,6 +221,12 @@ ul.menu li a {
 .node--equipo--teaser .group-right .field--name-body {
   margin-top: 10px; }
 
+/** Partido **/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000361}}
+.page-node.node-type-partido #node_partido_full_group_liga {
+  width: 60px;
+  float: left; }
+
 /*******************************************************************************
  * _components.scss
  *
