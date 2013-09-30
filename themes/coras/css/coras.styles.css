@@ -243,6 +243,17 @@ ul.menu li a {
   float: left;
   width: 430px; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000379}}
+.page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-1,
+.page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-2 {
+  width: 175px;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000383}}
+.page-node.node-type-partido #node_partido_full_group_encuentro #node_partido_full_group_marcador {
+  width: 80px;
+  float: left; }
+
 /*******************************************************************************
  * _components.scss
  *
@@ -349,16 +360,20 @@ body.front h1 {
 
 /** Banners Small **/
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\0000397}}
+#block-views-banners-block {
+  clear: both; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003100}}
 #block-views-banners-block-1:after {
   content: "";
   display: table;
   clear: both; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003105}}
 #block-views-banners-block-1 ul {
   height: 55px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003109}}
 #block-views-banners-block-1 ul,
 #block-views-banners-block-1 ul li {
   margin: 0;
@@ -366,28 +381,28 @@ body.front h1 {
   list-style: block;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003115}}
 #block-views-banners-block-1 ul li {
   width: 115px;
   height: 55px;
   display: inline-block;
   margin-right: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003121}}
 #block-views-banners-block-1 ul li.views-row-last {
   margin-right: 0;
   float: right; }
 
 /** Carrusel **/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003127}}
 #block-views-streaming-block {
   margin-top: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003130}}
 #views_slideshow_cycle_main_articulos-page_1 .node--article--carrusel {
   position: relative; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003133}}
 #views_slideshow_cycle_main_articulos-page_1 .group-info {
   width: 600px;
   background: rgba(0, 0, 0, 0.5);
@@ -395,7 +410,7 @@ body.front h1 {
   position: absolute;
   bottom: 3px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003140}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003143}}
 #views_slideshow_cycle_main_articulos-page_1 .group-info h3,
 #views_slideshow_cycle_main_articulos-page_1 .group-info h3 a,
 #views_slideshow_cycle_main_articulos-page_1 .group-info .field--name-body,
@@ -403,34 +418,34 @@ body.front h1 {
   color: white; }
 
 /** Article **/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003148}}
 article.node--small-article-promoted {
   width: 300px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003148}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003151}}
 article.node--small-article-promoted .group-left {
   width: 150px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003154}}
 article.node--small-article-promoted .group-right {
   float: none;
   width: auto;
   margin-left: 162px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003159}}
 article.node--small-article-promoted h3 {
   max-height: 38px;
   overflow: hidden;
   text-overflow: ellipsis; }
 
 /** Video Block at Sidebar **/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003164}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003167}}
 #block-views-videos-block h3,
 #views_slideshow_cycle_teaser_section_articulos-page_1 h3 a {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003169}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003172}}
 #views_slideshow_cycle_teaser_section_articulos-page_1 h3 a {
   display: block; }

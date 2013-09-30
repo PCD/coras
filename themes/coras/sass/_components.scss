@@ -94,6 +94,9 @@ body.front h1{
 }
 
 /** Banners Small **/
+#block-views-banners-block{
+  clear: both;
+}
 #block-views-banners-block-1:after{
   content: "";
   display: table;

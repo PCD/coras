@@ -75,3 +75,12 @@
   float: left;
   width: 430px;
 }
+.page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-1,
+.page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-2{
+  width: 175px;
+  float: left;
+}
+.page-node.node-type-partido #node_partido_full_group_encuentro #node_partido_full_group_marcador{
+  width: 80px;
+  float: left;
+}
