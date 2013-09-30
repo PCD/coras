@@ -145,6 +145,10 @@ ul.menu li a {
   color: #A21E2A; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_base\.scss}line{font-family:\00003101}}
+.field--name-body {
+  margin-bottom: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_base\.scss}line{font-family:\00003104}}
 .field--name-body a.more-link {
   display: inline-block; }
 
