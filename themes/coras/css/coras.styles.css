@@ -227,6 +227,10 @@ ul.menu li a {
   width: 60px;
   float: left; }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000365}}
+.page-node.node-type-partido #node_partido_full_group_datos {
+  width: 100px; }
+
 /*******************************************************************************
  * _components.scss
  *
