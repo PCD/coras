@@ -457,3 +457,14 @@ article.node--small-article-promoted h3 {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003172}}
 #views_slideshow_cycle_teaser_section_articulos-page_1 h3 a {
   display: block; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003175}}
+#block-views-articulos-block {
+  width: 300px;
+  clear: left;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003180}}
+#block-views-tienda-oficial-block {
+  width: 280px;
+  float: right; }
