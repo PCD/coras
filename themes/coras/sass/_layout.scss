@@ -87,11 +87,11 @@
   width: 155px;
   float: left;
 }
-.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-1 h3 a,
-.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-2 h3 a,
-.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-1 h3 a,
-.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-2 h3 a{
-  font-size: 0.7em;
+.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-1 .equipo-title a,
+.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-2 .equipo-title a,
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-1 .equipo-title a,
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-2 .equipo-title a{
+  font-size: 0.8em;
   text-transform: uppercase;
   font-weight: bold;
 }
