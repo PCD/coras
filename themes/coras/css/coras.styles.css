@@ -248,18 +248,24 @@ ul.menu li a {
   width: 430px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000385}}
+.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-1,
+.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-2,
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-1,
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-2 {
+  text-align: center;
+  width: 155px;
+  float: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000393}}
 .ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-1 h3 a,
 .ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-2 h3 a,
 .ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-1 h3 a,
 .ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-2 h3 a {
-  text-align: center;
-  width: 155px;
-  float: left;
   font-size: 0.7em;
   text-transform: uppercase;
   font-weight: bold; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000399}}
 .ds-1col.node--partido--full #node_partido_full_group_encuentro #node_partido_full_group_marcador,
 .ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro #node_partido_teaser_group_marcador {
   margin-top: 35px;
