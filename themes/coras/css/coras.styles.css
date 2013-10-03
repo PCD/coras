@@ -263,9 +263,11 @@ ul.menu li a {
 .ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-2 .equipo-title a {
   font-size: 0.8em;
   text-transform: uppercase;
-  font-weight: bold; }
+  font-weight: bold;
+  line-height: 120%;
+  display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\00003101}}
 .ds-1col.node--partido--full #node_partido_full_group_encuentro #node_partido_full_group_marcador,
 .ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro #node_partido_teaser_group_marcador {
   margin-top: 35px;
