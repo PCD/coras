@@ -59,30 +59,30 @@
 
 /** Partido **/
 .ds-1col.node--partido--full #node_partido_full_group_evento,
-.ds-1col.node--partido--teaser #node_partido_full_group_evento{
+.ds-1col.node--partido--teaser #node_partido_teaser_group_evento{
   width: 170px;
   float: left;
 }
 .ds-1col.node--partido--full #node_partido_full_group_liga,
-.ds-1col.node--partido--teaser #node_partido_full_group_liga{
+.ds-1col.node--partido--teaser #node_partido_teaser_group_liga{
   width: 60px;
   float: left;
 }
 .ds-1col.node--partido--full #node_partido_full_group_datos,
-.ds-1col.node--partido--teaser #node_partido_full_group_datos{
+.ds-1col.node--partido--teaser #node_partido_teaser_group_datos{
   width: 100px;
   margin-left: 10px;
   float: left;
 }
 .ds-1col.node--partido--full #node_partido_full_group_encuentro,
-.ds-1col.node--partido--teaser #node_partido_full_group_encuentro{
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro{
   float: left;
   width: 430px;
 }
 .ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-1,
 .ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-2,
-.ds-1col.node--partido--teaser #node_partido_full_group_encuentro .field--name-field-equipo-1,
-.ds-1col.node--partido--teaser #node_partido_full_group_encuentro .field--name-field-equipo-2{
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-1,
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro .field--name-field-equipo-2{
   text-align: center;
   width: 155px;
   float: left;
@@ -90,7 +90,7 @@
   text-transform: uppercase;
 }
 .ds-1col.node--partido--full #node_partido_full_group_encuentro #node_partido_full_group_marcador,
-.ds-1col.node--partido--teaser #node_partido_full_group_encuentro #node_partido_full_group_marcador{
+.ds-1col.node--partido--teaser #node_partido_teaser_group_encuentro #node_partido_teaser_group_marcador{
   margin-top: 35px;
   width: 120px;
   float: left;
