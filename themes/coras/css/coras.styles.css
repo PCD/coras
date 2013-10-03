@@ -222,38 +222,45 @@ ul.menu li a {
   margin-top: 10px; }
 
 /** Partido **/
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000361}}
-.page-node.node-type-partido #node_partido_full_group_evento {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000362}}
+.ds-1col.node--partido--full #node_partido_full_group_evento,
+.ds-1col.node--partido--teaser #node_partido_full_group_evento {
   width: 170px;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000365}}
-.page-node.node-type-partido #node_partido_full_group_liga {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000367}}
+.ds-1col.node--partido--full #node_partido_full_group_liga,
+.ds-1col.node--partido--teaser #node_partido_full_group_liga {
   width: 60px;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000369}}
-.page-node.node-type-partido #node_partido_full_group_datos {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000372}}
+.ds-1col.node--partido--full #node_partido_full_group_datos,
+.ds-1col.node--partido--teaser #node_partido_full_group_datos {
   width: 100px;
   margin-left: 10px;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000374}}
-.page-node.node-type-partido #node_partido_full_group_encuentro {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000378}}
+.ds-1col.node--partido--full #node_partido_full_group_encuentro,
+.ds-1col.node--partido--teaser #node_partido_full_group_encuentro {
   float: left;
   width: 430px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000379}}
-.page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-1,
-.page-node.node-type-partido #node_partido_full_group_encuentro .field--name-field-equipo-2 {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000385}}
+.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-1,
+.ds-1col.node--partido--full #node_partido_full_group_encuentro .field--name-field-equipo-2,
+.ds-1col.node--partido--teaser #node_partido_full_group_encuentro .field--name-field-equipo-1,
+.ds-1col.node--partido--teaser #node_partido_full_group_encuentro .field--name-field-equipo-2 {
   text-align: center;
   width: 155px;
   float: left;
   font-size: 0.7em;
   text-transform: uppercase; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000386}}
-.page-node.node-type-partido #node_partido_full_group_encuentro #node_partido_full_group_marcador {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_layout\.scss}line{font-family:\0000393}}
+.ds-1col.node--partido--full #node_partido_full_group_encuentro #node_partido_full_group_marcador,
+.ds-1col.node--partido--teaser #node_partido_full_group_encuentro #node_partido_full_group_marcador {
   margin-top: 35px;
   width: 120px;
   float: left;
