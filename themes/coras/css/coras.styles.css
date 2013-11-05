@@ -509,21 +509,83 @@ article.node--small-article-promoted h3 {
   clear: left;
   float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-partido\.scss}line{font-family:\000033}}
+html.js .front #block-views-proximo-partido-block .node--equipo--vs-teaser .contextual-links-wrapper,
+html.js .front #block-views-proximo-partido-block .node--jornada--liga-title .contextual-links-wrapper,
+html.js .front #block-views-proximo-partido-block .node--jornada--liga-link .contextual-links-wrapper {
+  display: none !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\000031}}
 #block-views-tienda-oficial-block {
   width: 280px;
   float: right; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003187}}
-.view-mode-promoted_product {
-  width: 280px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\000035}}
+#views_slideshow_cycle_main_tienda_oficial-block {
+  width: 248px;
+  padding: 0 16px;
+  box-sizing: content-box; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003190}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000310}}
+.view-mode-promoted_product {
+  width: 248px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000313}}
 .view-mode-promoted_product .group-left {
   width: 110px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/_components\.scss}line{font-family:\00003193}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000316}}
 .view-mode-promoted_product .group-right {
   width: auto;
   margin-left: 120px;
   float: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000321}}
+#block-views-tienda-oficial-block .skin-default {
+  position: relative;
+  padding-top: 15px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000325}}
+#block-views-tienda-oficial-block .views-slideshow-controls-top {
+  width: 280px;
+  position: absolute;
+  top: 40px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000330}}
+#views_slideshow_controls_text_pause_tienda_oficial-block {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000333}}
+#views_slideshow_controls_text_previous_tienda_oficial-block {
+  float: right;
+  width: 11px;
+  height: 45px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000338}}
+#views_slideshow_controls_text_next_tienda_oficial-block {
+  float: left;
+  width: 11px;
+  height: 45px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000344}}
+#views_slideshow_controls_text_previous_tienda_oficial-block a,
+#views_slideshow_controls_text_next_tienda_oficial-block a {
+  display: block;
+  text-indent: -9999px;
+  background: url(../images/arrow-left.jpg) no-repeat;
+  width: 11px;
+  height: 45px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000351}}
+#views_slideshow_controls_text_previous_tienda_oficial-block a {
+  background: url(../images/arrow-right.jpg) no-repeat; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000354}}
+.front .product-info .uc-price-label {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/cristian100\/Sites\/gobierno\/html\/sites\/local\.coras\.com\/themes\/coras\/sass\/components\/_home-promoted-product\.scss}line{font-family:\0000357}}
+.product-info .uc-price {
+  font-weight: bold;
+  color: #B51C2B;
+  font-size: 1.4em; }
